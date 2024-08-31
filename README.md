@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **BilgeAdam Akademi**
 
-- 🌱 I’m currently learning **MicroServices, Docker, Redis, React JS**
-
 - 🤝 I’m looking for help with **BilgeAdam-StundentPortal**
 
 - 📫 How to reach me **lostcekic@gmail.com**
